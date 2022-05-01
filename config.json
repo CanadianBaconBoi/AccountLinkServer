@@ -1,0 +1,60 @@
+{
+  "botToken": "",
+  "oauthURL": "",
+  "staff_role_id": 906992214494826567,
+  "accountLinking": {
+    "updateKey": "32e0356e6251b6bc8a7f260f3115759f857043042b9d77b25b58b34e01ef082ea436ddce35b6f0c65f1ce4fee3fb131082fc905686f9f01e6021335078017ae5",
+    "linkingDatabase": {
+      "username": "",
+      "password": "",
+      "host": "127.0.0.1",
+      "port": 3306,
+      "database": "accountlink"
+    },
+    "luckPermsDatabase": {
+      "username": "",
+      "password": "",
+      "host": "127.0.0.1",
+      "port": 3306,
+      "database": "luckperms"
+    },
+    "donatorRoles": [
+      {
+        "roleName": "Oblivion+",
+        "roleID": 906949317879795813,
+        "mcRank": "oblivionplus",
+        "weight": 60
+      },
+      {
+        "roleName": "Oblivion",
+        "roleID": 906949296644034571,
+        "mcRank": "oblivion",
+        "weight": 50
+      },
+      {
+        "roleName": "Emperor",
+        "roleID": 906949340042506280,
+        "mcRank": "emporer",
+        "weight": 40
+      },
+      {
+        "roleName": "Demigod",
+        "roleID": 906949511920885840,
+        "mcRank": "demigod",
+        "weight": 30
+      },
+      {
+        "roleName": "Titan",
+        "roleID": 906949533387325491,
+        "mcRank": "titan",
+        "weight": 20
+      },
+      {
+        "roleName": "Mage",
+        "roleID": 906949554430156811,
+        "mcRank": "mage",
+        "weight": 10
+      }
+    ]
+  }
+}
